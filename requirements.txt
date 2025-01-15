@@ -3,4 +3,6 @@ matplotlib
 networkx
 pandas
 scikit-learn
+dictlearn
 scipy
+scikit-image
